@@ -1,0 +1,41 @@
+! Instructure Canvas (Black) !
+instructure.com##html:style(background: black !important;)
+instructure.com##body:style(background: black !important;)
+
+! Dashboard Card !
+instructure.com##div.ic-DashboardCard:style(background: black !important; border: 1px solid white;)
+instructure.com##div.ic-DashboardCard__header_content:style(background: black !important;)
+instructure.com##nav.ic-DashboardCard__action-container:style(filter: invert(100%) !important;)
+instructure.com##span.ic-DashboardCard__action-badge:style(filter: invert(100%) !important;)
+instructure.com##div.ic-DashboardCard__header-subtitle:style(color: white !important;)
+instructure.com##div.ic-DashboardCard__header-term:style(color: white !important;)
+
+! Sidebar !
+instructure.com##div.ToDoSidebarItem__Title a:style(color: white !important;)
+instructure.com##div.ToDoSidebarItem__Info span:style(color: white !important;)
+instructure.com##div.ToDoSidebarItem__Info ul li:style(color: white !important;)
+instructure.com##h2.todo-list-header:style(color: white !important;)
+instructure.com##div.ToDoSidebarItem svg:style(filter: invert(100%) !important;)
+instructure.com##div.event-details:style(color: white !important;)
+instructure.com##div.event-details p:style(color: white !important;)
+instructure.com##div.h2.shared-space h2:style(color: white !important;)
+
+! Left Sidebar !
+instructure.com##nav#breadcrumbs:style(background: black !important;)
+
+! Account !
+instructure.com##div.tray-with-space-for-global-nav:style(background: black !important;)
+instructure.com##div.tray-with-space-for-global-nav div ul li div a:style(color: white !important;)
+instructure.com##div.tray-with-space-for-global-nav div span div:style(color: white !important;)
+
+! Courses !
+
+instructure.com##div.header-bar:style(background: black !important;)
+instructure.com##div.ig-list:style(background: black !important;)
+
+
+instructure.com##div.ic-Dashboard-header__layout:style(background: black !important; color: white !important;)
+instructure.com##div#DashboardOptionsMenu_Container:style(filter: invert(100%) !important;)
+instructure.com##a:style( color: black !important;)
+instructure.com##div.ic-app-header:style(filter: invert(100%) !important;)
+! End of Instructure Black !
